@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Exercicios\02-condicoes\" />
     <Folder Include="Exercicios\03-loops\" />
     <Folder Include="Exercicios\04-metodos\" />
     <Folder Include="Exercicios\05-listas\" />

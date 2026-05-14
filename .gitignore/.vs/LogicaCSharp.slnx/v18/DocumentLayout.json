@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\exercicios\\02-condicoes\\ex01parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\02-condicoes\\ex01parouimpar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\exercicios\\02-condicoes\\ex00n\u00FAmeropositivoounegativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\02-condicoes\\ex00n\u00FAmeropositivoounegativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\exercicios\\01-basico\\ex02produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\01-basico\\ex02produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\exercicios\\01-basico\\ex00helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\01-basico\\ex00helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\01-basico\\ex03media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\exercicios\\01-basico\\ex02produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\01-basico\\ex02produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\exercicios\\01-basico\\ex01soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\01-basico\\ex01soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|c:\\users\\admin\\desktop\\csharp-logica-exercicios\\logicacsharp\\exercicios\\01-basico\\ex00helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD7890A7-95FE-D51A-4FCD-15AEB9BE8AC7}|LogicaCSharp.csproj|solutionrelative:exercicios\\01-basico\\ex00helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,17 +54,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T19:57:47.127Z",
               "IsPinned": true,
@@ -64,7 +72,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex01ParOuImpar.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\02-condicoes\\ex01ParOuImpar.cs",
+              "RelativeDocumentMoniker": "Exercicios\\02-condicoes\\ex01ParOuImpar.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\02-condicoes\\ex01ParOuImpar.cs",
+              "RelativeToolTip": "Exercicios\\02-condicoes\\ex01ParOuImpar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:28:13.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ex00N\u00FAmeroPositivoOuNegativo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\02-condicoes\\ex00N\u00FAmeroPositivoOuNegativo.cs",
+              "RelativeDocumentMoniker": "Exercicios\\02-condicoes\\ex00N\u00FAmeroPositivoOuNegativo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\02-condicoes\\ex00N\u00FAmeroPositivoOuNegativo.cs",
+              "RelativeToolTip": "Exercicios\\02-condicoes\\ex00N\u00FAmeroPositivoOuNegativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T03:19:07.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ex07IdadeDias.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex07IdadeDias.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex07IdadeDias.cs",
@@ -72,12 +106,11 @@
               "RelativeToolTip": "Exercicios\\01-basico\\ex07IdadeDias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T04:32:46.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T04:32:46.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ex06AreaQuadrado.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex06AreaQuadrado.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex06AreaQuadrado.cs",
@@ -85,12 +118,11 @@
               "RelativeToolTip": "Exercicios\\01-basico\\ex06AreaQuadrado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T04:27:54.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T04:27:54.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ex05NomeIdade.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex05NomeIdade.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex05NomeIdade.cs",
@@ -98,12 +130,11 @@
               "RelativeToolTip": "Exercicios\\01-basico\\ex05NomeIdade.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T04:24:57.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T04:24:57.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ex04SomaInput.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex04SomaInput.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex04SomaInput.cs",
@@ -111,12 +142,11 @@
               "RelativeToolTip": "Exercicios\\01-basico\\ex04SomaInput.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T04:18:14.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T04:18:14.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ex01Soma.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex01Soma.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex01Soma.cs",
@@ -124,12 +154,11 @@
               "RelativeToolTip": "Exercicios\\01-basico\\ex01Soma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T04:11:55.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T04:11:55.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ex03Media.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex03Media.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex03Media.cs",
@@ -137,12 +166,11 @@
               "RelativeToolTip": "Exercicios\\01-basico\\ex03Media.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T04:11:52.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T04:11:52.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ex02Produto.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex02Produto.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex02Produto.cs",
@@ -155,13 +183,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "ex00HelloWorld.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex00HelloWorld.cs",
               "RelativeDocumentMoniker": "Exercicios\\01-basico\\ex00HelloWorld.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\csharp-logica-exercicios\\LogicaCSharp\\Exercicios\\01-basico\\ex00HelloWorld.cs",
               "RelativeToolTip": "Exercicios\\01-basico\\ex00HelloWorld.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T19:54:11.733Z",
               "EditorCaption": ""
