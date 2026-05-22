@@ -18,7 +18,7 @@ namespace LogicaCSharp.Exercicios._01_basico
             Console.WriteLine("Sua altura: ");
             double altura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine($"Olá {nome}! você tem {idade} anos, e {altura.ToString("F2", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"Olá {nome}! você tem {idade} anos, e {altura.ToString("F2")}m de altura");
         }
     }
 }

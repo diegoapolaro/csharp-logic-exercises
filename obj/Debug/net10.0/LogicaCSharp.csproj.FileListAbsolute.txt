@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\bin\Debug\net10.0\LogicaCSharp.exe
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\bin\Debug\net10.0\LogicaCSharp.deps.json
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\bin\Debug\net10.0\LogicaCSharp.runtimeconfig.json
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\bin\Debug\net10.0\LogicaCSharp.dll
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\bin\Debug\net10.0\LogicaCSharp.pdb
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.AssemblyInfo.cs
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.sourcelink.json
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.dll
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\refint\LogicaCSharp.dll
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.pdb
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\LogicaCSharp.genruntimeconfig.cache
+C:\Users\admin\Desktop\csharp-logica-exercicios\LogicaCSharp\obj\Debug\net10.0\ref\LogicaCSharp.dll
