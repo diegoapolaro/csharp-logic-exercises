@@ -1,4 +1,5 @@
 ﻿using LogicaCSharp.Exercicios._01_basico;
+using LogicaCSharp.Exercicios._02_condicoes;
 
 ex00HelloWorld.Executar();
 Console.WriteLine("=============================================");
@@ -15,6 +16,9 @@ Console.WriteLine("=============================================");
 ex06AreaQuadrado.Executar();
 Console.WriteLine("=============================================");
 ex07IdadeDias.Executar();
+Console.WriteLine("=============================================");
+Interpolação.Executar();
+Console.WriteLine("=============================================");
+ex02CaixaRegistradora.Executar();
 
-    
 Console.ReadLine();
