@@ -1,5 +1,6 @@
 ﻿using LogicaCSharp.Exercicios._01_basico;
 using LogicaCSharp.Exercicios._02_condicoes;
+using LogicaCSharp.Exercicios._03_loops;
 using System.Collections.Concurrent;
 
 ex00HelloWorld.Executar();
@@ -33,6 +34,10 @@ Console.WriteLine("=============================================");
 ex05ConversorDeTemperatura.Executar();
 Console.WriteLine("=============================================");
 exDesafioINSS.Executar();
+Console.WriteLine("=============================================");
+ex00TernarioAndSwitchExpression.Executar();
+Console.WriteLine("=============================================");
+ex01While.Executar();
 Console.WriteLine("=============================================");
 
 
