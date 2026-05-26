@@ -29,6 +29,7 @@ namespace LogicaCSharp.Exercicios._03_loops
                 if (numero < 0 || numero > 100)
                 {
                     Console.WriteLine("O número certo está entre 1 e 100 !!!");
+                    continue;
                 }
                 if (numero > secreto)
                 {
