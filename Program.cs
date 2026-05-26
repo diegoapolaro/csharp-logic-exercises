@@ -29,10 +29,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex06AreaQuadrado.Executar();
 //Console.WriteLine("===================================");
 
-ex07IdadeDias.Executar();
-Console.WriteLine("===================================");
+//ex07IdadeDias.Executar();
+//Console.WriteLine("===================================");
 
-Console.WriteLine("\n=========== 02 - CONDIÇÕES ===========");
+//Console.WriteLine("\n=========== 02 - CONDIÇÕES ===========");
 
 //ex00NúmeroPositivoOuNegativo.Executar();
 //Console.WriteLine("======================================");
@@ -49,21 +49,25 @@ Console.WriteLine("\n=========== 02 - CONDIÇÕES ===========");
 //ex04TryParse.Executar();
 //Console.WriteLine("======================================");
 
-ex05ConversorDeTemperatura.Executar();
-Console.WriteLine("======================================");
+//ex05ConversorDeTemperatura.Executar();
+//Console.WriteLine("======================================");
 
-exDesafioINSS.Executar();
-Console.WriteLine("======================================");
+//exDesafioINSS.Executar();
+//Console.WriteLine("======================================");
 
-Console.WriteLine("\n=========== 03 - LOOPS ===========");
+//Console.WriteLine("\n=========== 03 - LOOPS ===========");
 
-ex00TernarioAndSwitchExpression.Executar();
+//ex00TernarioAndSwitchExpression.Executar();
+//Console.WriteLine("==================================");
+
+//ex01While.Executar();
+// Console.WriteLine("==================================");
+
+//ex02MenuLanchonete.Executar();
+//Console.WriteLine("==================================");
+
+ex03TabuadaFormatada.Executar();
 Console.WriteLine("==================================");
 
-ex01While.Executar();
-Console.WriteLine("==================================");
-
-ex02MenuLanchonete.Executar();
-Console.WriteLine("==================================");
 
 Console.ReadLine();
