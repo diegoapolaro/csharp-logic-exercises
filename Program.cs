@@ -69,8 +69,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex03TabuadaFormatada.Executar();
 //Console.WriteLine("==================================");
 
-ex04FizzBuzzComLoop.Executar();
-Console.WriteLine("==================================");
+//ex04FizzBuzzComLoop.Executar();
+//Console.WriteLine("==================================");
 
+exDesafioPiramide.Executar();
+Console.WriteLine("==================================");
 
 Console.ReadLine();
