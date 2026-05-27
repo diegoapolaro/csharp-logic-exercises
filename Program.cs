@@ -66,7 +66,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex02MenuLanchonete.Executar();
 //Console.WriteLine("==================================");
 
-ex03TabuadaFormatada.Executar();
+//ex03TabuadaFormatada.Executar();
+//Console.WriteLine("==================================");
+
+ex04FizzBuzzComLoop.Executar();
 Console.WriteLine("==================================");
 
 
