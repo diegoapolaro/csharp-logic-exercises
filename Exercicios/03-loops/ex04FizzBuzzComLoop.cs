@@ -13,20 +13,20 @@ namespace LogicaCSharp.Exercicios._03_loops
             int fizzBuzz = 0;
             for (int i = 1; i <= 50; i++)
             {
-                if(i % 3 == 0)
+                if (i % 3 == 0 && i % 5 == 0)
+                {
+                    Console.WriteLine("FizzBuzz");
+                    fizzBuzz++;
+                }
+                else if (i % 3 == 0)
                 {
                     Console.WriteLine("Fizz");
                     fizz++;
                 }
-                else if(i % 5 == 0)
+                else if (i % 5 == 0)
                 {
                     Console.WriteLine("Buzz");
                     buzz++;
-                }
-                else if(i % 3 == 0 && i % 5 == 0)
-                {
-                    Console.WriteLine("FizzBuzz");
-                    fizzBuzz++;
                 }
                 else
                 {
