@@ -72,7 +72,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex04FizzBuzzComLoop.Executar();
 //Console.WriteLine("==================================");
 
-exDesafioPiramide.Executar();
+//exDesafioPiramide.Executar();
+//Console.WriteLine("==================================");
+
+ex06ContagemRegressiva.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
