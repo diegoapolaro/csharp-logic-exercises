@@ -75,7 +75,11 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //exDesafioPiramide.Executar();
 //Console.WriteLine("==================================");
 
-ex06ContagemRegressiva.Executar();
+//ex06ContagemRegressiva.Executar();
+//Console.WriteLine("==================================");
+
+ex05SomaComLoop.Executar();
 Console.WriteLine("==================================");
+
 
 Console.ReadLine();
