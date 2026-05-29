@@ -78,8 +78,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex06ContagemRegressiva.Executar();
 //Console.WriteLine("==================================");
 
-ex05SomaComLoop.Executar();
-Console.WriteLine("==================================");
+//ex05SomaComLoop.Executar();
+//Console.WriteLine("==================================");
 
+ex07Cpf.Executar();
+Console.WriteLine("==================================");
 
 Console.ReadLine();
