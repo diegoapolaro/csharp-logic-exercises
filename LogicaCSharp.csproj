@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Exercicios\04-metodos\" />
-    <Folder Include="Exercicios\05-listas\" />
   </ItemGroup>
 
 </Project>

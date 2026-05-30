@@ -5,6 +5,7 @@ using System.Collections.Concurrent;
 using LogicaCSharp.Exercicios._01_basico;
 using LogicaCSharp.Exercicios._02_condicoes;
 using LogicaCSharp.Exercicios._03_loops;
+using LogicaCSharp.Exercicios._05_listas;
 
 Console.WriteLine("=========== 01 - BÁSICO ===========");
 
@@ -81,7 +82,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex05SomaComLoop.Executar();
 //Console.WriteLine("==================================");
 
-ex07Cpf.Executar();
+//ex07Cpf.Executar();
+//Console.WriteLine("==================================");
+
+ex00CalculadoraComHistorico.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
