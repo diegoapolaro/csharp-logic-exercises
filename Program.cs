@@ -85,7 +85,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex07Cpf.Executar();
 //Console.WriteLine("==================================");
 
-ex00CalculadoraComHistorico.Executar();
+//ex00CalculadoraComHistorico.Executar();
+//Console.WriteLine("==================================");
+
+ex06MaiorMenorMedia.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
