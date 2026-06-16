@@ -91,7 +91,10 @@ Console.WriteLine("=========== 01 - BÁSICO ===========");
 //ex06MaiorMenorMedia.Executar();
 //Console.WriteLine("==================================");
 
-ex08NumeroPrimo.Executar();
+//ex08NumeroPrimo.Executar();
+//Console.WriteLine("==================================");
+
+exDesafio02JogoDeDados.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
