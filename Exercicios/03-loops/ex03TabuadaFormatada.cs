@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Channels;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
 namespace LogicaCSharp.Exercicios._03_loops
 {
     internal class ex03TabuadaFormatada

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace LogicaCSharp.Exercicios._02_condicoes
 {
     internal class ex06ContagemRegressiva

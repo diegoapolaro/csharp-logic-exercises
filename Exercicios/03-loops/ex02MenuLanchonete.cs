@@ -1,7 +1,4 @@
-﻿    using System;
-    using System.Collections.Generic;
-    using System.Text;
-
+﻿using System;
     namespace LogicaCSharp.Exercicios._03_loops
     {
         internal class ex02MenuLanchonete

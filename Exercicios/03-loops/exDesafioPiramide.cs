@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace LogicaCSharp.Exercicios._03_loops
 {
     internal class exDesafioPiramide
