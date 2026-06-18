@@ -7,8 +7,6 @@ using LogicaCSharp.Exercicios._02_condicoes;
 using LogicaCSharp.Exercicios._03_loops;
 using LogicaCSharp.Exercicios._05_listas;
 
-Console.WriteLine("=========== 01 - BÁSICO ===========");
-
 //ex00HelloWorld.Executar();
 //Console.WriteLine("===================================");
 

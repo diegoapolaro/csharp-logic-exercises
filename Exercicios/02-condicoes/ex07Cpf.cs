@@ -23,18 +23,18 @@ namespace LogicaCSharp.Exercicios._02_condicoes
                     }
                 }
                 
-                if(todosNumeros == true && tamanho == 11)
+                if(todosNumeros && tamanho == 11)
                 {
                     Console.WriteLine("CPF No formato correto!");
                     break;
                 }
 
 
-                if(todosNumeros == false  && tamanho != 11)
+                if(!todosNumeros && tamanho != 11)
                 {
                     Console.WriteLine("Tem caracteres inválidos e o tamanho do CPF está incorreto! ");
                 }
-                else if(todosNumeros == false)
+                else if(!todosNumeros)
                 {
                     Console.WriteLine($"Tem caracteres inválidos no CPF");
                 }
