@@ -92,7 +92,10 @@ using LogicaCSharp.Exercicios._05_listas;
 //ex08NumeroPrimo.Executar();
 //Console.WriteLine("==================================");
 
-exDesafio02JogoDeDados.Executar();
+//exDesafio02JogoDeDados.Executar();
+//Console.WriteLine("==================================");
+
+ex01Manipulaçãodearray.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
