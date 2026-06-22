@@ -101,7 +101,10 @@ using LogicaCSharp.Exercicios._05_listas;
 //ex02ListaDeCompras.Executar();
 //Console.WriteLine("==================================");
 
-ex03Idades.Executar();
+//ex03Idades.Executar();
+//Console.WriteLine("==================================");
+
+ex04TestandoLINQ.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
