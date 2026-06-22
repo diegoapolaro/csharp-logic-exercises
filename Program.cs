@@ -95,7 +95,12 @@ using LogicaCSharp.Exercicios._05_listas;
 //exDesafio02JogoDeDados.Executar();
 //Console.WriteLine("==================================");
 
-ex01Manipulaçãodearray.Executar();
+//ex01Manipulaçãodearray.Executar();
+//Console.WriteLine("==================================");
+
+
+ex02ListaDeCompras.Executar();
 Console.WriteLine("==================================");
+
 
 Console.ReadLine();
