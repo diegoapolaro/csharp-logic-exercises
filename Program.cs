@@ -98,9 +98,10 @@ using LogicaCSharp.Exercicios._05_listas;
 //ex01Manipulaçãodearray.Executar();
 //Console.WriteLine("==================================");
 
+//ex02ListaDeCompras.Executar();
+//Console.WriteLine("==================================");
 
-ex02ListaDeCompras.Executar();
+ex03Idades.Executar();
 Console.WriteLine("==================================");
-
 
 Console.ReadLine();
