@@ -104,7 +104,11 @@ using LogicaCSharp.Exercicios._05_listas;
 //ex03Idades.Executar();
 //Console.WriteLine("==================================");
 
-ex04TestandoLINQ.Executar();
+//ex04TestandoLINQ.Executar();
+//Console.WriteLine("==================================");
+
+exDesafioRankingAlunos.Executar();
 Console.WriteLine("==================================");
+
 
 Console.ReadLine();
