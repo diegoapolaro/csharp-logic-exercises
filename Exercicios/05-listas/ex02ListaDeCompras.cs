@@ -23,6 +23,12 @@ namespace LogicaCSharp.Exercicios._05_listas
                 string entrada = (Console.ReadLine());
                 bool deuCerto = int.TryParse(entrada, out opcao);
 
+                if (opcao < 0 || opcao > 3)
+                {
+                    Console.WriteLine("Opção inválida!");
+                    continue;
+                }
+
                 if (opcao == 1)
                 {
                     Console.WriteLine("----------------------------------");
@@ -66,6 +72,8 @@ namespace LogicaCSharp.Exercicios._05_listas
                     }
                     continue;
                 }
+
+                
 
             } while (opcao != 0);
 

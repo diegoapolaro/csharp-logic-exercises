@@ -48,7 +48,7 @@ namespace LogicaCSharp.Exercicios._05_listas
                     menorNota = notas[i];
                 }
             }
-            int media = somaDasNotas / notas.Length;
+            double media = somaDasNotas / notas.Length;
             Console.WriteLine($"Maior nota: {maiorNota}");
             Console.WriteLine($"Menor nota: {menorNota}");
             Console.WriteLine($"Média: {media}");

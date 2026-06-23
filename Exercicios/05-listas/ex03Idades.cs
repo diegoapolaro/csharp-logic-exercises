@@ -26,7 +26,7 @@ namespace LogicaCSharp.Exercicios._05_listas
             int menoresDeIdade = 0;
             int adultos = 0;
             int idosos = 0;
-            int contador = 0;
+
             Console.WriteLine();
             Console.WriteLine("Menores de idade: ");
             foreach (int Idade in idades)
@@ -36,18 +36,14 @@ namespace LogicaCSharp.Exercicios._05_listas
                     Console.WriteLine(Idade);
                     menoresDeIdade++;
                 }
-                else
-                {
-                    contador++;
-                }
-
-                if (contador >= 8)
-                {
-                    Console.WriteLine("Não há nenhum menor de idade");
-                }
+            }
+            if (menoresDeIdade == 0)
+            {
+                Console.WriteLine("Não há nenhum menor de idade");
             }
 
-            contador = 0;
+
+
             Console.WriteLine("--------------------------------");
             Console.WriteLine("Adultos: ");
             foreach (int Idade in idades)
@@ -57,18 +53,15 @@ namespace LogicaCSharp.Exercicios._05_listas
                     Console.WriteLine(Idade);
                     adultos++;
                 }
-                else
-                {
-                    contador++;
-                }
-
-                if (contador >= 8)
-                {
-                    Console.WriteLine("Não há nenhum adulto");
-                }
             }
 
-            contador = 0;
+            if (adultos == 0)
+            {
+                Console.WriteLine("Não há nenhum adulto");
+            }
+
+
+
             Console.WriteLine("--------------------------------");
             Console.WriteLine("Idosos:");
             foreach (int Idade in idades)
@@ -78,16 +71,12 @@ namespace LogicaCSharp.Exercicios._05_listas
                     Console.WriteLine(Idade);
                     idosos++;
                 }
-                else
-                {
-                    contador++;
-                }
-
-                if (contador >= 8)
-                {
-                    Console.WriteLine("Não há nenhum idoso");
-                }
             }
+            if (idosos == 0)
+            {
+                Console.WriteLine("Não há nenhum idoso");
+            }
+
 
             Console.WriteLine($"Menores de idade: {menoresDeIdade} | Adultos: {adultos} | Idosos: {idosos}");
         }
