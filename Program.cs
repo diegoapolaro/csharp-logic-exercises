@@ -119,7 +119,10 @@ using LogicaCSharp.Exercicios._05_listas;
 //ex07InverterLista.Executar();
 //Console.WriteLine("==================================");
 
-ex08Top03ComLINQ.Executar(); 
+//ex08Top03ComLINQ.Executar(); 
+//Console.WriteLine("==================================");
+
+ex09ContadorDePalavras.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
