@@ -113,7 +113,10 @@ using LogicaCSharp.Exercicios._05_listas;
 //ex05MaiorSequencia.Executar();
 //Console.WriteLine("==================================");
 
-ex06DuplicadosSemLINQ.Executar();
+//ex06DuplicadosSemLINQ.Executar();
+//Console.WriteLine("==================================");
+
+ex07InverterLista.Executar();
 Console.WriteLine("==================================");
 
 Console.ReadLine();
