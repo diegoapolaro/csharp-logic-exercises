@@ -107,8 +107,10 @@ using LogicaCSharp.Exercicios._05_listas;
 //ex04TestandoLINQ.Executar();
 //Console.WriteLine("==================================");
 
-exDesafioRankingAlunos.Executar();
-Console.WriteLine("==================================");
+//exDesafioRankingAlunos.Executar();
+//Console.WriteLine("==================================");
 
+ex05MaiorSequencia.Executar();
+Console.WriteLine("==================================");
 
 Console.ReadLine();
